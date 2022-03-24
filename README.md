@@ -11,6 +11,7 @@
 - 🔭 I’m currently enrolled in an I.S Bachelor's degree program at the **Sudan University of Science & Technology 🏫**
 - 💻 I'm an active memeber of the IEEE SusTech student branch - Project Team - Front-end sub-team
 - 🌱 I’m currently learning **React.js, Node.js, and PostgreSQL**
+- 🤝 I'm looking to collaborate on any cool web app dev projects that may want a front-end helping hand
 
 <div align='center'><img src='https://68.media.tumblr.com/490306a9c7d8e207256e0f7c4913bc97/tumblr_oaf3tugRZy1tbhzhno1_500.gif'></div>
 
@@ -18,3 +19,21 @@
 - 📫 How to reach me: ibradbus@gmail.com (business only)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You just read my ReadMe that is about me, for you to read. Thank you 👍
+
+<br/>
+## Languages and Tools I'm familiar with:
+<img align='left' width='35' src='https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png'>
+<img align='left' width='35' src='https://camo.githubusercontent.com/cca9ccc0829a6a09a39efa8a1907ab87b6d146b6/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f796f6e6e657474692d7375626c696d652f677261766974792f69636f6e732f7375626c696d65746578742d332d6f72616e67652e706e67'>
+<img align='left' width='35' src='https://icon-library.com/images/java-icon-png/java-icon-png-15.jpg'>
+<img align='left' width='35' src='https://www.freepngimg.com/download/android/72537-icons-python-programming-computer-social-tutorial.png'>
+<img align='left' width='35' src='https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/html-512.png'>
+<img align='left' width='35' src='https://www.freelogovectors.net/wp-content/uploads/2020/04/css-3-logo.png'>
+<img align='left' width='35' src='https://cdn.freebiesupply.com/logos/thumbs/2x/javascript-logo.png'>
+<img align='left' width='35' src='https://cdn0.iconfinder.com/data/icons/designer-skills/128/node-js-512.png'>
+<img align='left' width='35' src='https://cdn.iconscout.com/icon/free/png-256/php-27-226042.png'>
+<img align='left' width='35' src='https://nedbatchelder.com/pix/django-icon-256.png'>
+<img align='left' width='35' src='https://cdn.dribbble.com/users/595/screenshots/14417863/bootstrap-new-logo_4x.png'>
+<img align='left' width='35' src='https://pngimg.com/uploads/mysql/mysql_PNG23.png'>
+<img align='left' width='35' src='https://i7.pngguru.com/preview/884/748/899/postgresql-computer-icons-database-angularjs-tencent.jpg'>
+<img align='left' width='35' src='https://www.sapien.com/blog/wp-content/uploads/2017/10/powershell-logo.png'>
+<img align='left' width='35' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png'>
