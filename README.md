@@ -3,7 +3,7 @@
 <h2 align='center'> Some also call me ib, Ibe, bib, ibra </h2>
 
 <p float='left'>
-  <img width='350' src='https://miro.medium.com/max/960/1*bkW3FHe6rvQSz9US6ilfQg.gif'>
+  <img width='340' src='https://miro.medium.com/max/960/1*bkW3FHe6rvQSz9US6ilfQg.gif'>
   <img width='330' src='https://cdn.dribbble.com/users/505482/screenshots/1776789/nodejs-dribbble_1.gif'>
   <img width='320' src='https://kondado.com.br/assets/images/pipeline-google-cloud-storage-postgresql.gif'>
 </p>
