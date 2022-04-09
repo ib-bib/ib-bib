@@ -18,7 +18,7 @@
 - 🍕 Will almost always crave Pizza or Ice Cream 🍦 -->
 <!-- Is that ^ what you came to know ? -->
 
-<div align='center'><img src='https://68.media.tumblr.com/490306a9c7d8e207256e0f7c4913bc97/tumblr_oaf3tugRZy1tbhzhno1_500.gif'></div>
+<!-- <div align='center'><img src='https://68.media.tumblr.com/490306a9c7d8e207256e0f7c4913bc97/tumblr_oaf3tugRZy1tbhzhno1_500.gif'></div> -->
 
 - 💬 Ask me about **JavaScript, CSS,** and/or **HTML**
 - 📫 How to reach me (business only): <a href='mailto:ibradbus@gmail.com?subject=Saw you on GitHub'><img align='center' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a>
