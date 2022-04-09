@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn-images-1.medium.com/max/1600/1*OF0xEMkWBv-69zvmNs6RDQ.gif)
 <h1 align='center'> Hello there 👋 I am Ibrahim </h1>
-<h2 align='center'> Some also call me ib, Ibe, bib, ibra </h2>
+<h2 align='center'> Some also call me Ib, Ibe, or Ibra </h2>
 <!-- Hello there stalker, what brings you within the code?? -->
 <p float='left'>
   <img width='285' src='https://miro.medium.com/max/960/1*bkW3FHe6rvQSz9US6ilfQg.gif'>
