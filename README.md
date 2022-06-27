@@ -12,7 +12,7 @@
 - 2️⃣2️⃣ years old
 - 🔭 Enrolled in an I.S Bachelor's degree program at the **Sudan University of Science & Technology 🏫**
 - 💻 Active memeber of the IEEE SusTech student branch - Project Team - Front-end sub-team
-- 🌱 Learning **Django** currently
+- 🌱 Learning **No new technologies** currently (gotta focus on academics for a while :eyes:)
 - 🤝 Looking to collaborate on any cool web app dev projects (especially ones that may want a **Front-end** helping hand) 🤝
 <!-- - 🦉 My current favourite animals are owls, though sloths are a very close second 🦥
 - 🍕 Will almost always crave Pizza or Ice Cream 🍦 -->
