@@ -35,6 +35,7 @@ ib-bib
 
 ---
 ## Languages and Tools I'm familiar with:
+<p>
 <img align='left' width='35' src='https://code.visualstudio.com/assets/images/code-stable.png'>
 <img align='left' width='35' src='https://camo.githubusercontent.com/cca9ccc0829a6a09a39efa8a1907ab87b6d146b6/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f796f6e6e657474692d7375626c696d652f677261766974792f69636f6e732f7375626c696d65746578742d332d6f72616e67652e706e67'>
 <img align='left' width='35' src='https://icon-library.com/images/java-icon-png/java-icon-png-15.jpg' />
@@ -53,10 +54,11 @@ ib-bib
 <img align='left' width='35' src='https://media.zeemly.com/zeemly/product/tailwind-css.png' />
 <img align='left' width='35' src='https://s3.amazonaws.com/media-p.slid.es/uploads/745186/images/4839343/redux.png' />
 <img align='left' width='35' src='https://pluspng.com/img-png/javascript-logo-vector-png-file-logo-d3-svg-1079.png' />
-<!-- <img align='left' width='35' src='https://www.brandignity.com/wp-content/uploads/2011/05/wordpress_logo.png' /> -->
+</p>
+
+<br />
 
 
 ---
-
 ## 📊️ My Github stats:
 [![Ibrahim's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ibrahim&theme=react-dark)](https://github.com/ib-bib)
