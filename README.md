@@ -55,9 +55,8 @@ ib-bib
 <img align='left' width='35' src='https://pluspng.com/img-png/javascript-logo-vector-png-file-logo-d3-svg-1079.png' />
 <!-- <img align='left' width='35' src='https://www.brandignity.com/wp-content/uploads/2011/05/wordpress_logo.png' /> -->
 
-<br />
 
 ---
-📊️ My Github stats:
 
+📊️ My Github stats:
 [![Ibrahim's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ibrahim&theme=react-dark)](https://github.com/ib-bib)
