@@ -34,29 +34,28 @@ ib-bib
 
 
 ---
-## Languages and Tools I'm familiar with:
+## 💻 Languages and Tools I'm familiar with:
 <p>
-<img align='left' width='35' src='https://code.visualstudio.com/assets/images/code-stable.png'>
-<img align='left' width='35' src='https://camo.githubusercontent.com/cca9ccc0829a6a09a39efa8a1907ab87b6d146b6/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f796f6e6e657474692d7375626c696d652f677261766974792f69636f6e732f7375626c696d65746578742d332d6f72616e67652e706e67'>
-<img align='left' width='35' src='https://icon-library.com/images/java-icon-png/java-icon-png-15.jpg' />
-<img align='left' width='35' src='https://www.freepngimg.com/download/android/72537-icons-python-programming-computer-social-tutorial.png' />
-<img align='left' width='35' src='https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/html-512.png' />
-<img align='left' width='35' src='https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png' />
-<img align='left' width='35' src='https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png' />
-<img align='left' width='35' src='https://1.bp.blogspot.com/-mzw13XQJPYM/XgzNHXSUdXI/AAAAAAAAAYY/xeIhLBEpTQUn8huUCnWXdUX6vIR_T4UCQCPcBGAYYCw/s1600/http___pluspng.com_img-png_nodejs-png-nodejs-icon-png-50-px-1600.png' />
-<img align='left' width='35' src='https://pngimg.com/uploads/php/php_PNG35.png' />
-<img align='left' width='35' src='https://nedbatchelder.com/pix/django-icon-256.png' />
-<img align='left' width='45' src='https://www.drupal.org/files/project-images/bootstrap-stack.png' />
-<img align='left' width='35' src='https://pngimg.com/uploads/mysql/mysql_PNG23.png' />
-<img align='left' width='35' src='https://i7.pngguru.com/preview/884/748/899/postgresql-computer-icons-database-angularjs-tencent.jpg' />
-<img align='left' width='35' src='https://www.sapien.com/blog/wp-content/uploads/2017/10/powershell-logo.png' />
-<img align='left' width='35' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png' />
-<img align='left' width='35' src='https://media.zeemly.com/zeemly/product/tailwind-css.png' />
-<img align='left' width='35' src='https://s3.amazonaws.com/media-p.slid.es/uploads/745186/images/4839343/redux.png' />
-<img align='left' width='35' src='https://pluspng.com/img-png/javascript-logo-vector-png-file-logo-d3-svg-1079.png' />
+<img  width='35' src='https://code.visualstudio.com/assets/images/code-stable.png'>
+<img  width='35' src='https://camo.githubusercontent.com/cca9ccc0829a6a09a39efa8a1907ab87b6d146b6/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f796f6e6e657474692d7375626c696d652f677261766974792f69636f6e732f7375626c696d65746578742d332d6f72616e67652e706e67'>
+<img  width='35' src='https://icon-library.com/images/java-icon-png/java-icon-png-15.jpg' />
+<img  width='35' src='https://www.freepngimg.com/download/android/72537-icons-python-programming-computer-social-tutorial.png' />
+<img  width='35' src='https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/html-512.png' />
+<img  width='35' src='https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png' />
+<img  width='35' src='https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png' />
+<img  width='35' src='https://1.bp.blogspot.com/-mzw13XQJPYM/XgzNHXSUdXI/AAAAAAAAAYY/xeIhLBEpTQUn8huUCnWXdUX6vIR_T4UCQCPcBGAYYCw/s1600/http___pluspng.com_img-png_nodejs-png-nodejs-icon-png-50-px-1600.png' />
+<img  width='35' src='https://pngimg.com/uploads/php/php_PNG35.png' />
+<img  width='35' src='https://nedbatchelder.com/pix/django-icon-256.png' />
+<img  width='45' src='https://www.drupal.org/files/project-images/bootstrap-stack.png' />
+<img  width='35' src='https://pngimg.com/uploads/mysql/mysql_PNG23.png' />
+<img  width='35' src='https://i7.pngguru.com/preview/884/748/899/postgresql-computer-icons-database-angularjs-tencent.jpg' />
+<img  width='35' src='https://www.sapien.com/blog/wp-content/uploads/2017/10/powershell-logo.png' />
+<img  width='35' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png' />
+<img  width='35' src='https://media.zeemly.com/zeemly/product/tailwind-css.png' />
+<img  width='35' src='https://s3.amazonaws.com/media-p.slid.es/uploads/745186/images/4839343/redux.png' />
+<img  width='35' src='https://pluspng.com/img-png/javascript-logo-vector-png-file-logo-d3-svg-1079.png' />
 </p>
 
-<br />
 
 
 ---
