@@ -58,5 +58,5 @@ ib-bib
 
 ---
 
-📊️ My Github stats:
+## 📊️ My Github stats:
 [![Ibrahim's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ibrahim&theme=react-dark)](https://github.com/ib-bib)
