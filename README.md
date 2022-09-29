@@ -1,5 +1,12 @@
+### Hello there I am Ibrahim aka ib <img src="https://user-images.githubusercontent.com/87325345/193068362-ef81a925-6423-4095-a183-42ff0a8029b9.gif" width="25px"/>
+Some also call me Ib, Ibe, or Ibra
+
+```zsh
+ib-bib
+```
+
 ![MasterHead](https://cdn-images-1.medium.com/max/1600/1*OF0xEMkWBv-69zvmNs6RDQ.gif)
-<h1 align='center'> Hello there 👋 I am Ibrahim </h1>
+
 <h2 align='center'> Some also call me Ib, Ibe, or Ibra </h2>
 <!-- Hello there stalker, what brings you within the code?? -->
 <p float='left'>
