@@ -1,10 +1,5 @@
-### Hello there I am Ibrahim aka ib <img src="https://user-images.githubusercontent.com/87325345/193068362-ef81a925-6423-4095-a183-42ff0a8029b9.gif" width="25px"/>
+### Hello there! My name is Ibrahim <img src="https://user-images.githubusercontent.com/87325345/193068362-ef81a925-6423-4095-a183-42ff0a8029b9.gif" width="25px"/>
 Some also call me Ib, Ibe, or Ibra
-
-```zsh
-ib-bib
-```
-> js is everything to me :)
 
 ![MasterHead](https://cdn-images-1.medium.com/max/1600/1*OF0xEMkWBv-69zvmNs6RDQ.gif)
 
@@ -58,6 +53,8 @@ ib-bib
 
 
 
+<!--
 ---
 ## 📊️ My Github stats:
-[![Ibrahim's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ibrahim&theme=react-dark)](https://github.com/ib-bib)
+[![Ibrahim's github activity graph](https://activity-graph.herokuapp.com/graph?username=ib-bib&theme=react-dark)](https://github.com/ib-bib)
+-->
