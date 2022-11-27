@@ -1,5 +1,5 @@
 ### Hello there! My name is Ibrahim <img src="https://user-images.githubusercontent.com/87325345/193068362-ef81a925-6423-4095-a183-42ff0a8029b9.gif" width="25px"/>
-Some also call me Ib, Ibe, or Ibra
+Some also call me Ib, Ibe, Ibra, or Hima
 
 ![MasterHead](https://cdn-images-1.medium.com/max/1600/1*OF0xEMkWBv-69zvmNs6RDQ.gif)
 
