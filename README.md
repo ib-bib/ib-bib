@@ -3,7 +3,7 @@ Some also call me Ib, Ibe, or Ibra
 
 ![MasterHead](https://cdn-images-1.medium.com/max/1600/1*OF0xEMkWBv-69zvmNs6RDQ.gif)
 
-<!-- Hello there stalker, what brings you within the code?? -->
+<!-- Hello there stalker, what brings you behind the scenes?? -->
 <!-- <p float='left'>
   <img width='285' src='https://miro.medium.com/max/960/1*bkW3FHe6rvQSz9US6ilfQg.gif'>
   <img width='275' src='https://cdn.dribbble.com/users/505482/screenshots/1776789/nodejs-dribbble_1.gif'>
@@ -15,7 +15,7 @@ Some also call me Ib, Ibe, or Ibra
 ## 🤵 About Me:
 - 2️⃣2️⃣ years old
 - 🔭 Enrolled in an I.S Bachelor's degree program at the **Sudan University of Science & Technology 🏫**
-- 💻 Active memeber of the IEEE SusTech student branch - Project Team - Front-end sub-team
+- 💻 Active memeber of the IEEE SusTech student branch - Project Team
 - 🌱 Learning **No new technologies** currently (gotta focus on academics for a while :eyes:)
 - 🤝 Looking to collaborate on any cool web app dev projects (especially ones that may want a **Front-end** helping   hand) 🤝
 - 📫 How to reach me (business only): <a href='mailto:ibradbus@gmail.com?subject=Saw you on GitHub'><img align='center' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a>
@@ -23,7 +23,7 @@ Some also call me Ib, Ibe, or Ibra
 - ⚡ Fun fact: You just read my ReadMe that is about me, for you to read. Thank you 👍
 <!-- Add LinkedIn when ready -->
 
-<!-- - 🦉 My current favourite animals are owls, though sloths are a very close second 🦥
+<!-- - 🦉 My current favourite animals are owls 🦉, though sloths are a very close second 🦥
 - 🍕 Will almost always crave Pizza or Ice Cream 🍦 -->
 <!-- Is that ^ what you came to know ? -->
 
