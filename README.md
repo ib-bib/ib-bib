@@ -43,7 +43,7 @@ Some also call me Ib, Ibe, Ibra, or Hima
 <img  width='35' src='https://nedbatchelder.com/pix/django-icon-256.png' />
 <img  width='45' src='https://www.drupal.org/files/project-images/bootstrap-stack.png' />
 <img  width='35' src='https://pngimg.com/uploads/mysql/mysql_PNG23.png' />
-<img  width='35' src='https://i7.pngguru.com/preview/884/748/899/postgresql-computer-icons-database-angularjs-tencent.jpg' />
+<!-- <img  width='35' src='https://i7.pngguru.com/preview/884/748/899/postgresql-computer-icons-database-angularjs-tencent.jpg' /> -->
 <img  width='35' src='https://www.sapien.com/blog/wp-content/uploads/2017/10/powershell-logo.png' />
 <img  width='35' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png' />
 <img  width='35' src='https://media.zeemly.com/zeemly/product/tailwind-css.png' />
