@@ -16,8 +16,8 @@ Some also call me Ib, Ibe, Ibra, or Hima
 - 2️⃣2️⃣ years old
 - 🔭 Enrolled in an I.S Bachelor's degree program at the **Sudan University of Science & Technology 🏫**
 - 💻 Active memeber of the IEEE SusTech student branch - Project Team
-- 🌱 Learning **No new technologies** currently (gotta focus on academics for a while :eyes:)
-- 🤝 Looking to collaborate on any cool web app dev projects (especially ones that may want a **Front-end** helping   hand) 🤝
+- 🌱 Currently learning about DevOps, containers and Docker. Also learning some more Node.js
+- 🤝 Looking to collaborate on any cool web app dev projects
 - 📫 How to reach me (business only): <a href='mailto:ibradbus@gmail.com?subject=Saw you on GitHub'><img align='center' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You just read my ReadMe that is about me, for you to read. Thank you 👍
