@@ -13,7 +13,7 @@ Some also call me Ibra, or Hima for short
  
 --- 
 ## About Me:
-- 2️⃣3️⃣ years old
+- 2️⃣4️⃣ years old
 - 🔭 Enrolled in an Information Systems Bachelor's degree program at the **Sudan University of Science & Technology 🏫**
 - 💻 Active memeber of the IEEE SusTech student branch - Project Team
 - 🌱 Currently learning about DevOps, and trying to expand my horizons in back-end development
