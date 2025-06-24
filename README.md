@@ -1,8 +1,8 @@
 ### Hello there! My name is Ibrahim <img src="https://user-images.githubusercontent.com/87325345/193068362-ef81a925-6423-4095-a183-42ff0a8029b9.gif" width="25px"/>
 Some also call me Ibra, or Hima for short
-
+<!--
 ![MasterHead](https://cdn-images-1.medium.com/max/1600/1*OF0xEMkWBv-69zvmNs6RDQ.gif)
-
+-->
 <!-- Hello there stalker, what brings you behind the scenes?? -->
 <!-- <p float='left'>
   <img width='285' src='https://miro.medium.com/max/960/1*bkW3FHe6rvQSz9US6ilfQg.gif'>
@@ -13,11 +13,9 @@ Some also call me Ibra, or Hima for short
  
 --- 
 ## About Me:
-- 2️⃣4️⃣ years old
-- 🔭 Enrolled in an Information Systems Bachelor's degree program at the **Sudan University of Science & Technology 🏫**
-- 💻 Active memeber of the IEEE SusTech student branch - Project Team
-- 🌱 Currently learning about DevOps, and trying to expand my horizons in back-end development
-- 🤝 Looking to collaborate on any projects involving React
+- 25 years old
+- 🔭 Graduated in June 2025 with an Information Systems Bachelor's degree from the **Sudan University of Science & Technology 🏫**
+- 🌱 Currently learning about Data Engineering
 - 📫 Shoot me an e-mail: <a href='mailto:ibradbus@gmail.com?subject=Saw you on GitHub' target='_blank'><img align='center' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a>
 - 🤝 Connect with me on LinkedIn: <a href='https://www.linkedin.com/in/ibrahim-adil-099526230' target='_blank'><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
 - ⚡ Fun fact: You just read my ReadMe that is about me, for you to read. Thank you 👍
@@ -26,7 +24,7 @@ Some also call me Ibra, or Hima for short
 - 🍕 Will almost always crave Pizza or Ice Cream 🍦 -->
 <!-- Is that ^ what you came to know ? -->
 
-
+<!--
 ---
 ## 💻 Libraries, Frameworks and Tools I like using:
 <p>
@@ -39,7 +37,7 @@ Some also call me Ibra, or Hima for short
 <img  width='35' src='https://www.sapien.com/blog/wp-content/uploads/2017/10/powershell-logo.png' />
 <img  width='35' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png' />
 <img  width='35' src='https://media.zeemly.com/zeemly/product/tailwind-css.png' />
-<!--
+
 ---
 ## 📊️ My Github stats:
 [![Ibrahim's github activity graph](https://activity-graph.herokuapp.com/graph?username=ib-bib&theme=react-dark)](https://github.com/ib-bib)
