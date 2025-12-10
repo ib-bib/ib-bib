@@ -23,22 +23,3 @@ Some also call me Ibra, or Hima for short
 <!-- - 🦉 My current favourite animals are owls 🦉, though sloths are a very close second 🦥
 - 🍕 Will almost always crave Pizza or Ice Cream 🍦 -->
 <!-- Is that ^ what you came to know ? -->
-
-<!--
----
-## 💻 Libraries, Frameworks and Tools I like using:
-<p>
-<img  width='35' src='https://code.visualstudio.com/assets/images/code-stable.png'>
-<img  width='35' src='https://www.freepngimg.com/download/android/72537-icons-python-programming-computer-social-tutorial.png' />
-<img  width='35' src='https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png' />
-<img  width='35' src='https://1.bp.blogspot.com/-mzw13XQJPYM/XgzNHXSUdXI/AAAAAAAAAYY/xeIhLBEpTQUn8huUCnWXdUX6vIR_T4UCQCPcBGAYYCw/s1600/http___pluspng.com_img-png_nodejs-png-nodejs-icon-png-50-px-1600.png' />
-<img  width='35' src='https://nedbatchelder.com/pix/django-icon-256.png' />
-<img  width='35' src='https://pngimg.com/uploads/mysql/mysql_PNG23.png' />
-<img  width='35' src='https://www.sapien.com/blog/wp-content/uploads/2017/10/powershell-logo.png' />
-<img  width='35' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png' />
-<img  width='35' src='https://media.zeemly.com/zeemly/product/tailwind-css.png' />
-
----
-## 📊️ My Github stats:
-[![Ibrahim's github activity graph](https://activity-graph.herokuapp.com/graph?username=ib-bib&theme=react-dark)](https://github.com/ib-bib)
--->
