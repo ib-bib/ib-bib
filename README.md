@@ -10,13 +10,13 @@ Some also call me Ibra, or Hima for short
   <img width='255' src='https://kondado.com.br/assets/images/pipeline-google-cloud-storage-postgresql.gif'>
 </p>
  -->
- 
+  
 --- 
 ## About Me:
 - 🔭 Graduated in June 2025 with an Information Systems Bachelor's degree from the **Sudan University of Science & Technology 🏫**
 - 🌱 Currently learning about Data Engineering
-- 📫 Shoot me an e-mail: <a href='mailto:contact@ibrahimadil.dev?subject=Saw you on GitHub' target='_blank'><img align='center' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a>
-- 🤝 Connect with me on LinkedIn: <a href='https://www.linkedin.com/in/ibrahim-adil-dev512' target='_blank'><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
+- 📫 Shoot me an e-mail: <a href='mailto:contact@ibrahimadil.dev?subject=Saw you on GitHub' target='_blank'><img align='center' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' style='vertical-align: middle; height: 30px; margin-left: 5px;'/></a>
+- 🤝 Connect with me on LinkedIn: <a href='https://www.linkedin.com/in/ibrahim-adil-dev512' target='_blank'><img width="32" height="32" src="https://img.icons8.com/fluency/32/linkedin.png" alt='LinkedIn' style='vertical-align: middle; margin-left: 5px;'/></a>
 - ⚡ Fun fact: You just read my ReadMe that is about me, for you to read. Thank you 👍
 
 <!-- - 🦉 My current favourite animals are owls 🦉, though sloths are a very close second 🦥
