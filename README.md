@@ -15,7 +15,7 @@ Some also call me Ibra, or Hima for short
 ## About Me:
 - 🔭 Graduated in June 2025 with an Information Systems Bachelor's degree from the **Sudan University of Science & Technology 🏫**
 - 🌱 Currently learning about Data Engineering
-- 📫 Shoot me an e-mail: <a href='mailto:ibradbus@gmail.com?subject=Saw you on GitHub' target='_blank'><img align='center' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a>
+- 📫 Shoot me an e-mail: <a href='mailto:contact@ibrahimadil.dev?subject=Saw you on GitHub' target='_blank'><img align='center' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a>
 - 🤝 Connect with me on LinkedIn: <a href='https://www.linkedin.com/in/ibrahim-adil-dev512' target='_blank'><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
 - ⚡ Fun fact: You just read my ReadMe that is about me, for you to read. Thank you 👍
 
